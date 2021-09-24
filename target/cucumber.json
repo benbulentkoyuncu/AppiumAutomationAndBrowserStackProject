@@ -1,0 +1,74 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-09-24T02:37:27.416Z",
+        "line": 4,
+        "name": "1. Search for wooden spoon and verify that every search result contains it",
+        "description": "",
+        "id": "as-user--i-want-to-be-able-to-search-for-goods;1.-search-for-wooden-spoon-and-verify-that-every-search-result-contains-it",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user clicks on get started button",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user logs in",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user searches for \"wooden spoon\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "user verifies that every search result contains \"wooden spoon\"",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@search_results"
+          }
+        ]
+      }
+    ],
+    "name": "As user, I want to be able to search for goods",
+    "description": "",
+    "id": "as-user--i-want-to-be-able-to-search-for-goods",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/SearchResult.feature",
+    "tags": [
+      {
+        "name": "@search_results",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
