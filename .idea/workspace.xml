@@ -4,49 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f162fc5b-18b9-40cb-9a73-3e22c0d094f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etsy.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/automation/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/automation/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/automation/runners/CukesRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/automation/step_definitions/HomeStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/automation/step_definitions/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/automation/step_definitions/LoginStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/automation/tests/CalculatorTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/automation/tests/EtsyTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/automation/tests/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/automation/utils/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/automation/utils/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/automation/utils/MobileUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/SearchResult.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.mycompany.automation.tests.TestRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.mycompany.automation.tests.TestRunner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/automation/pages/HomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/automation/pages/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/automation/runners/CukesRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/automation/step_definitions/HomeStepDefinitions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/automation/step_definitions/Hooks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/automation/step_definitions/LoginStepDefinitions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/automation/tests/CalculatorTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/automation/tests/EtsyTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/automation/tests/TestRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/automation/utils/ConfigurationReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/automation/utils/Driver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/automation/utils/MobileUtils$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/automation/utils/MobileUtils$Direction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/mycompany/automation/utils/MobileUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/SearchResult.feature" afterDir="false" />
+    <list default="true" id="f162fc5b-18b9-40cb-9a73-3e22c0d094f5" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mycompany/automation/tests/MobileChromeTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +24,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -86,20 +51,10 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bulen\IdeaProjects\AppiumAutomation" />
+      <recent name="C:\Users\bulen\IdeaProjects\AppiumAutomation\target" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CukesRunner">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Cucumber Java.Feature: SearchResult">
     <configuration name="Feature: SearchResult" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/SearchResult.feature" />
@@ -185,24 +140,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="AppiumAutomationAndBrowserStackProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="AppiumAutomationAndBrowserStackProject" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: SearchResult" />
         <item itemvalue="JUnit.CukesRunner" />
         <item itemvalue="Cucumber Java.Scenario: 1. Search for wooden spoon and verify that every search result contains it" />
-        <item itemvalue="Cucumber Java.Feature: SearchResult" />
         <item itemvalue="JUnit.EtsyTests.test" />
         <item itemvalue="JUnit.CalculatorTests" />
       </list>
@@ -218,8 +160,23 @@
       <updated>1631327581352</updated>
       <workItem from="1631327582833" duration="3149000" />
       <workItem from="1631667204757" duration="1489000" />
-      <workItem from="1632364394672" duration="34598000" />
+      <workItem from="1632364394672" duration="38925000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1632453895334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632453895334</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1632453925622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632453925622</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,5 +192,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
